@@ -1,3 +1,24 @@
 body{
     background: #BDBDBD;
 }
+#navbar_id{
+    background-color: black;
+    color:white;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 20%;
+    left: 0;
+    width: 100%;
+}
+.white_background{
+      margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+}
