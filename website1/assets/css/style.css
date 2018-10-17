@@ -7,8 +7,8 @@ body{
      color: grey;
 }
 #navbar_id{
-    background-color: black;
-    color:white;
+    background-color: black !important;
+    
 }
 
 .thumbnail {
@@ -27,4 +27,8 @@ body{
   opacity: 0.6;
   filter: alpha(opacity=60);
 
+}
+.navbarSupportedContent{
+    color:white !important;
+    
 }
