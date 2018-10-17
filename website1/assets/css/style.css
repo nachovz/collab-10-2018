@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+
 }
 #navbar_id{
     background-color: black;
@@ -21,4 +21,5 @@ body{
   background-color: #ffffff;
   opacity: 0.6;
   filter: alpha(opacity=60);
+
 }
