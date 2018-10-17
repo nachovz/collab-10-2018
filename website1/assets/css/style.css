@@ -1,7 +1,31 @@
 body{
 
 }
+<<<<<<< HEAD
 
 #color-gris{
      color: grey;
+=======
+#navbar_id{
+    background-color: black;
+    color:white;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 20%;
+    left: 0;
+    width: 100%;
+}
+.white_background{
+      margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+
+>>>>>>> 4b03c0fe8a1bd356da9b036df47692233730b660
 }
