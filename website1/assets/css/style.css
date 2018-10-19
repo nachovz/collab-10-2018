@@ -26,6 +26,7 @@ body{
   background-color: #ffffff;
   opacity: 0.6;
   filter: alpha(opacity=60);
+  width: 100%;
 
 
 }
@@ -36,4 +37,5 @@ body{
 #imagen{
     background-image: url(https://www.houseofharper.com/wp-content/uploads/2016/10/New-York-City-Skyline-1.jpg);
     background-repeat:no-repeat;
+
 }
