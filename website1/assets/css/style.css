@@ -22,7 +22,7 @@ body{
     width: 100%;
 }
 .white_background{
-      margin: 30px;
+  margin-bottom: 30px;
   background-color: #ffffff;
   opacity: 0.6;
   filter: alpha(opacity=60);
