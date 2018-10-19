@@ -1,11 +1,9 @@
 body{
 
 }
-<<<<<<< HEAD
 
 #color-gris{
      color: grey;
-=======
 #navbar_id{
     background-color: black;
     color:white;
@@ -27,5 +25,4 @@ body{
   opacity: 0.6;
   filter: alpha(opacity=60);
 
->>>>>>> 4b03c0fe8a1bd356da9b036df47692233730b660
 }
