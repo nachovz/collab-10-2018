@@ -1,17 +1,11 @@
 body{
 
 }
-<<<<<<< HEAD
-
-#color-gris{
-     color: grey;
-=======
-
 
 #color-gris{
      color: grey;
 }
->>>>>>> 0d70834c957e6bb2fcc40fbc35b8af31952e3bb3
+
 #navbar_id{
     background-color: black !important;
     
@@ -33,11 +27,9 @@ body{
   opacity: 0.6;
   filter: alpha(opacity=60);
 
-<<<<<<< HEAD
-=======
+
 }
 .navbarSupportedContent{
     color:white !important;
     
->>>>>>> 0d70834c957e6bb2fcc40fbc35b8af31952e3bb3
 }
